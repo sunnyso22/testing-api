@@ -1,0 +1,37 @@
+[
+    {
+        id: 1,
+        productName: "Apple",
+        price: 10,
+        image: "/image/apple.jpg",
+        description: "Very nice apple from China" 
+    },
+    {
+        id: 2,
+        productName: "Orange",
+        price: 8,
+        image: "/image/orange.jpg",
+        description: "Sweet orange" 
+    },
+    {
+        id: 3,
+        productName: "Lemon",
+        price: 12,
+        image: "/image/lemon.jpg",
+        description: "Super sour lemon" 
+    },
+    {
+        id: 4,
+        productName: "Strawberry",
+        price: 6,
+        image: "/image/strawberry.jpg",
+        description: "Delicious strawberry from Japan" 
+    },
+    {
+        id: 5,
+        productName: "Watermelon",
+        price: 14,
+        image: "/image/watermelon.jpg",
+        description: "Big watermelon" 
+    },
+]
